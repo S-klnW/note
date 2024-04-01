@@ -32,6 +32,8 @@
 
 [simpleTex](https://simpletex.net/)｜LaTeX公式识别
 
+[stackedit](https://stackedit.io/app)｜markdown在线编辑器
+
 
 
 ## 编程计算
