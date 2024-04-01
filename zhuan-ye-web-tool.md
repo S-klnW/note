@@ -30,6 +30,8 @@
 
 [pku排版规范](https://grs.pku.edu.cn/docs/2019-05/20190524160158375113.pdf)
 
+[simpleTex](https://simpletex.net/)｜LaTeX公式识别
+
 
 
 ## 编程计算
