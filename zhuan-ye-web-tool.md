@@ -74,3 +74,5 @@
 
 [Stellarium](https://stellarium-web.org)｜在线星图，包括角度信息
 
+[zb.oldmapsonline](https://zb.oldmapsonline.org/maps/672b6d6c-0654-476a-b27a-c661dce54037/view?\_gl=1\*1tq3u1n\*\_ga\*NTAzNjg1MTkxLjE3MTA0NzI2MTc.\*\_ga\_W4NH1B56KN\*MTcxMDQ3MjYxNy4xLjEuMTcxMDQ3MjY2NS4wLjAuMA..\*\_ga\_LMW99GTGWQ\*MTcxMDQ3MjYxNy4xLjEuMTcxMDQ3MjY2NS4wLjAuMA..)｜古地图
+
