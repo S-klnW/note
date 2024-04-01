@@ -54,6 +54,8 @@
 
 [Qwerty Learner](https://qwerty.kaiyi.cool)｜在线打字练习，包括英语、日语、德语、代码
 
+[小张Mac教程](https://qnswkjn28n.feishu.cn/wiki/T8uJwQH4YiIy7BkHyQpczpyDnug)
+
 
 
 ## 地理交通
