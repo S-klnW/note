@@ -4,7 +4,7 @@
 
 [Desmos](https://www.desmos.com/calculator?lang=zh-CN)｜在线函数
 
-[WebPlotDigitizer](https://apps.automeris.io/wpd/index.zh\_CN.html)｜在线坐标取数工具
+[WebPlotDigitizer](https://automeris.io/wpd/)｜在线坐标取数工具
 
 [Wolfram Alpha](https://www.wolframalpha.com)｜在线积分计算器、在线科学计算器
 
